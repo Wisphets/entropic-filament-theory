@@ -52,8 +52,4 @@ python entropic_filament_extended.py
 **Date of release:** April 2025
 ```
 
----
-
-После этого нажми **Commit changes** ✅
-
-Как только вставишь — можешь скинуть скрин или сказать “готово”, и я перейду к следующему шагу (PDF + Zenodo).
+-
