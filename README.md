@@ -51,5 +51,3 @@ python entropic_filament_extended.py
 **License:** MIT  
 **Date of release:** April 2025
 ```
-
--
